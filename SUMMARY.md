@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
-* [Quick Start](quick-start.md)
+* [Swift — bu nima?](README.md)
 
 ## Swift Kirish <a href="#Swift-Introduction" id="Swift-Introduction"></a>
 

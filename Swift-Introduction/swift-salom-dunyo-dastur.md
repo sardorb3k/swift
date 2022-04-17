@@ -22,9 +22,9 @@ print("Hello, World!")
 Salom Dunyo!
 ```
 
-**Eslatma** : Agar siz ushbu dasturni kompyuteringizda ishga tushirmoqchi bo'lsangiz, Swift to'g'ri o'rnatilganligiga ishonch hosil qiling. Kompyuteringizda Swift-ni sozlash haqida ko'proq ma'lumot olish uchun Swift bilan ishlashni boshlash sahifasiga tashrif _buyuring_ .
-
-***
+{% hint style="info" %}
+**Eslatma**: Agar siz ushbu dasturni kompyuteringizda ishga tushirmoqchi bo'lsangiz, Swift to'g'ri o'rnatilganligiga ishonch hosil qiling. Kompyuteringizda Swift-ni sozlash haqida ko'proq ma'lumot olish uchun Swift bilan ishlashni boshlash sahifasiga tashrif _buyuring_ .
+{% endhint %}
 
 ### Qanday tez "Salom, dunyo!" Dastur ishlaydimi? <a href="#working" id="working"></a>
 

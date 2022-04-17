@@ -4,7 +4,7 @@ Ushbu qo'llanmada siz Swift belgilar va satrlari haqida bilib olasiz. Shuningdek
 
 ### Tezkor xarakter <a href="#character" id="character"></a>
 
-Belgilar - bu bitta belgili satrni ( , , , va hokazo) ifodalovchi [ma'lumotlar turi .](https://www.programiz.com/swift-programming/data-types)`"a""@""5"`
+Belgilar - bu bitta belgili satrni ( , , , va hokazo) ifodalovchi [ma'lumotlar turi .](swift-malumotlar-turlari.md)`"a""@""5"`
 
 Biz `Character`kalit so'zdan Swift-da belgilar tipidagi o'zgaruvchilarni yaratish uchun foydalanamiz. Misol uchun,
 

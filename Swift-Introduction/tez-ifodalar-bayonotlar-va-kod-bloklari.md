@@ -4,7 +4,7 @@ Ushbu maqolada siz Swift ifodalari, bayonotlari va bloklari haqida bilib olasiz.
 
 ### Tez ifodalar <a href="#expressions" id="expressions"></a>
 
-[Ifoda o'zgaruvchilar](https://www.programiz.com/swift-programming/variables-constants-literals) , [operatorlar](https://www.programiz.com/swift-programming/operators) , [harflar](https://www.programiz.com/swift-programming/variables-constants-literals) va [funksiyalarning](https://www.programiz.com/swift-programming/functions) birikmasidir . Misol uchun,
+[Ifoda o'zgaruvchilar](../tez-oqimni-boshqarish/swift-if-if...else-bayonoti.md) , [operatorlar](broken-reference) , [harflar](swift-ozgaruvchilari-konstantalar-va-harflar.md) va [funksiyalarning](../swift-funktsiyalari/swift-funktsiyalari.md) birikmasidir . Misol uchun,
 
 ```
 // assign value to marks
@@ -63,8 +63,8 @@ Yuqoridagi misolda **shartli**`if (age > 18)` bayonot **mavjud** . Bu yerda, aga
 
 Shartli gaplarning ikki turi mavjud:
 
-* [agar ... boshqacha bayonot](https://www.programiz.com/swift-programming/if-else-statement)
-* [almashtirish bayonoti](https://www.programiz.com/swift-programming/switch-statement)
+* [agar ... boshqacha bayonot](../tez-oqimni-boshqarish/swift-if-if...else-bayonoti.md)
+* [almashtirish bayonoti](../tez-oqimni-boshqarish/swift-switch-bayonoti.md)
 
 ***
 

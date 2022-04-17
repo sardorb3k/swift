@@ -127,7 +127,7 @@ Yuqoridagi misolda biz `Bool`o'zgaruvchilar turini yaratdik:passCheckvamuvaffaqi
 
 Agar biz mantiqiy o'zgaruvchiga hech qanday qiymat bermasak, u `false`standart qiymat sifatida qabul qilinadi.
 
-**Eslatma** : Mantiqiy so'zlar tez-tez `if-else`iboralar bilan ishlatiladi. [Batafsil ma’lumot olish uchun Swift if...else bayonotiga](https://www.programiz.com/swift-programming/if-else-statement) tashrif buyuring .
+**Eslatma** : Mantiqiy so'zlar tez-tez `if-else`iboralar bilan ishlatiladi. [Batafsil ma’lumot olish uchun Swift if...else bayonotiga](../tez-oqimni-boshqarish/swift-if-if...else-bayonoti.md) tashrif buyuring .
 
 ***
 
@@ -175,7 +175,11 @@ Swift dasturlashda double ning asosiy xususiyatlaridan ba'zilari:
 * **Hajmi** : 64-bitli suzuvchi nuqtali raqam
 * **Diapazon** : **2,3 x 10 -308** dan **1,7 x 10 308** gacha (15 kasrgacha)
 
-**Eslatma** : Agar bizda kabi raqam bo'lsa `27.7007697012432`, biz foydalanamiz:
+{% hint style="info" %}
+**Eslatma** : Agar bizda kabi raqam bo'lsa `27.7007697012432`,&#x20;
+{% endhint %}
+
+Biz foydalanamiz:
 
 * `Double`raqamni aniqroq saqlash uchun (15 kasrgacha)
 * `Float`raqamni kamroq aniqlikda saqlash uchun (6 kasrgacha)[\

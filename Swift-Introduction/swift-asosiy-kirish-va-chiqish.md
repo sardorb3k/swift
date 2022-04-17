@@ -30,7 +30,9 @@ Bu yerda,
 * **ajratuvchi** (ixtiyoriy) - ichkarida bir nechta **narsalarni** ajratish imkonini beradi `print()`.
 * **terminator**`"\n"` (ixtiyoriy) - bizga yangi satr , yorliq kabi ma'lum qiymatlarni qo'shish imkonini beradi`"\t"`
 
+{% hint style="info" %}
 **Eslatma:** ajratuvchi va terminator ixtiyoriy. Agar biz ularni ga kiritmasak `print()`, ularning standart qiymatlari: `" "`ajratuvchi uchun bitta bo'sh joy va `"\n"`terminator uchun yangi qator ishlatiladi.
+{% endhint %}
 
 ***
 
@@ -95,7 +97,7 @@ E'tibor bering, biz bayonot `separator: ". "`ichida ixtiyoriy parametrdan foydal
 
 ### Misol: O'zgaruvchilar va harflarni chop etish <a href="#example3" id="example3"></a>
 
-[Funktsiyadan Swift o'zgaruvchilarini](https://www.programiz.com/swift-programming/variables-constants-literals)`print()` chop etish uchun ham foydalanishimiz mumkin . Misol uchun,
+[Funktsiyadan Swift o'zgaruvchilarini](swift-ozgaruvchilari-konstantalar-va-harflar.md)`print()` chop etish uchun ham foydalanishimiz mumkin . Misol uchun,
 
 ```
 var number: Double = -10.6
@@ -139,13 +141,13 @@ Bu yerda,
 * operator `+`ikkita satrni birlashtiradi `"Programiz is "`va`"awesome."`
 * funksiya `print()`birlashtirilgan qatorni chop etadi
 
-Satrlarni birlashtirish haqida ko'proq ma'lumot olish uchun [Swift Join String](https://www.programiz.com/swift-programming/characters-strings#concatenate) ga tashrif buyuring .
+Satrlarni birlashtirish haqida ko'proq ma'lumot olish uchun [Swift Join String](swift-belgilar-va-satrlar.md) ga tashrif buyuring .
 
 ***
 
 ### O'zgaruvchilar va satrlarni birga chop eting <a href="#interpolation" id="interpolation"></a>
 
-[Swift-da biz string interpolyatsiyasi](https://www.programiz.com/swift-programming/characters-strings#string-interpolation) yordamida satr va o'zgaruvchini birga chop etishimiz mumkin . Bu erda biz satr ichidagi o'zgaruvchilarni chop etish uchun teskari chiziq va qavsdan foydalanamiz. Misol uchun,
+[Swift-da biz string interpolyatsiyasi](swift-malumotlar-turlari.md) yordamida satr va o'zgaruvchini birga chop etishimiz mumkin . Bu erda biz satr ichidagi o'zgaruvchilarni chop etish uchun teskari chiziq va qavsdan foydalanamiz. Misol uchun,
 
 ```
 var year = 2014
@@ -202,7 +204,8 @@ Bu erda `readLine()`foydalanuvchidan ma'lumot oladi va uni nom o'zgaruvchisiga t
 
 Funktsiya `readLine()`oddiy qatorni qaytarmaydi. Buning o'rniga, u ixtiyoriy qatorni qaytaradi. Shuning uchun biz `name!`ismni majburan ochishga odatlanganmiz.
 
-Majburiy emasligi haqida koʻproq maʼlumot olish uchun [Swift Options](https://www.programiz.com/swift-programming/optionals) ga tashrif buyuring .
+Majburiy emasligi haqida koʻproq maʼlumot olish uchun [Swift Options](swift-opsiyalari.md) ga tashrif buyuring .
 
-**Eslatma** : Yuqoridagi dastur faqat Xcode-da buyruq qatori vositasi yaratgan bo'lsangiz ishlaydi. Buyruqlar qatori vositalarini qanday yaratishni o'rganish uchun [macOS-da Buyruqlar](https://stackoverflow.com/questions/24004776/input-from-the-keyboard-in-command-line-application#answer-47880208) qatori vositasiga tashrif buyuring .[\
-](https://www.programiz.com/swift-programming/characters-strings)
+{% hint style="info" %}
+**Eslatma** : Yuqoridagi dastur faqat Xcode-da buyruq qatori vositasi yaratgan bo'lsangiz ishlaydi. Buyruqlar qatori vositalarini qanday yaratishni o'rganish uchun [macOS-da Buyruqlar](https://stackoverflow.com/questions/24004776/input-from-the-keyboard-in-command-line-application#answer-47880208) qatori vositasiga tashrif buyuring .
+{% endhint %}

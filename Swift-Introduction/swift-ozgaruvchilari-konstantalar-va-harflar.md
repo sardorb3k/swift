@@ -20,7 +20,7 @@ Swift-da biz `var`o'zgaruvchilarni e'lon qilish uchun kalit so'zdan foydalanamiz
 
 ```
 var siteName:String
-var identifikatori: Int
+var id: Int
 ```
 
 Bu yerda,
@@ -28,7 +28,9 @@ Bu yerda,
 * sayt nomitipdagi o‘zgaruvchidirString. Ya'ni, u faqat matn qiymatlarini saqlashi mumkin.
 * id`Int`tipdagi o‘zgaruvchidir . Ya'ni, u faqat butun son qiymatlarini saqlashi mumkin.
 
+{% hint style="info" %}
 **Eslatma:** Swift-da biz e'lon qilingan o'zgaruvchining turini o'zgartira olmaymiz.
+{% endhint %}
 
 ***
 
@@ -38,7 +40,7 @@ Bu yerda,
 
 ```
 var siteName: String
-siteName = "programiz.com"
+siteName = "swift.satif.uz"
 
 print(siteName) 
 ```
@@ -46,14 +48,14 @@ print(siteName)
 **Chiqish**
 
 ```
-programiz.com
+swift.satif.uz
 ```
 
 Shuningdek, siz o'zgaruvchini to'g'ridan-to'g'ri turdagi izohsiz belgilashingiz mumkin:
 
 ```
-var siteName = "programiz.com"
-print(siteName) // programiz.com
+var siteName = "swift.satif.uz"
+print(siteName) // swift.satif.uz
 ```
 
 Bu erda kompilyator buni avtomatik ravishda aniqlaydisayt nomi`String`tipdagi o‘zgaruvchidir .
@@ -65,9 +67,9 @@ Bu erda kompilyator buni avtomatik ravishda aniqlaydisayt nomi`String`tipdagi o�
 Mavjud o'zgaruvchining qiymatini o'zgartirishingiz mumkin. Demak, **o'zgaruvchining** nomi . Misol uchun,
 
 ```
-var siteName = "programiz.com"
+var siteName = "swift.satif.uz"
  
-// assigning a new value to siteName
+// siteName ga yangi qiymat belgilash
 siteName = "apple.com"
 print(siteName)
 ```
@@ -78,7 +80,7 @@ print(siteName)
 apple.com
 ```
 
-Bu erda, qiymatisayt nomidan o'zgartiriladi"programiz.com"uchun"apple.com".
+Bu erda, qiymatisayt nomidan o'zgartiriladi "swift.satif.uz" uchun "apple.com".
 
 ***
 
